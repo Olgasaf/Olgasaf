@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Olgasaf
 - 👀 I’m interested in programirovanie
 - 🌱 I’m currently learning in SkillFactory
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail  safy-olga@yandex.ru
 
 <!---
